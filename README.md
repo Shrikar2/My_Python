@@ -10,3 +10,4 @@ Task_7:Median of three values
 Task_8:Multiply all the elements in the list
 Task_9:Odd and even count
 Task_10:print area of a reactangle using class and object
+
